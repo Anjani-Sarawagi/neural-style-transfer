@@ -1,0 +1,5 @@
+*.pth
+__pycache__/
+.vscode/
+static/uploads/*
+!static/uploads/.gitkeep
